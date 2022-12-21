@@ -2,4 +2,4 @@
 Repositório criado para Desafio de Projeto da DIO
 
 ## Links uteis
-[sintaxe Basica Markdown] (https://www.markdownguide.org/)
+[Sintaxe Basica Markdown](https://www.markdownguide.org/)
